@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Metropolitan_Counties__December_2018__Names_and_Codes_in_England",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "MCTY18CD": "E11000001", "MCTY18NM": "Greater Manchester", "FID": 1 }, "geometry": null },
+{ "type": "Feature", "properties": { "MCTY18CD": "E11000002", "MCTY18NM": "Merseyside", "FID": 2 }, "geometry": null },
+{ "type": "Feature", "properties": { "MCTY18CD": "E11000003", "MCTY18NM": "South Yorkshire", "FID": 3 }, "geometry": null },
+{ "type": "Feature", "properties": { "MCTY18CD": "E11000005", "MCTY18NM": "West Midlands", "FID": 4 }, "geometry": null },
+{ "type": "Feature", "properties": { "MCTY18CD": "E11000006", "MCTY18NM": "West Yorkshire", "FID": 5 }, "geometry": null },
+{ "type": "Feature", "properties": { "MCTY18CD": "E11000007", "MCTY18NM": "Tyne and Wear", "FID": 6 }, "geometry": null }
+]
+}
